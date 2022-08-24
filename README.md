@@ -6,9 +6,12 @@
 
 - I’m currently learning <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a>     **ReactJS**
 
+
 - All of my projects are available at: <img src='https://cdn-icons-png.flaticon.com/512/25/25231.png' width='auto' height='20px'></img> [https://github.com/ParasPandey019](https://github.com/ParasPandey019)
 
+
 - Reach me here: <img src='https://c.tenor.com/9_X3DEtd-xoAAAAi/gmail.gif' width='auto' height='20px'></img> **paraspandey019@gmail.com**
+
 
 - Linkedin Profile: <img src='https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png' width='auto' height='25px'></img> **https://www.linkedin.com/in/paras-pandey-54860522a/**
 
