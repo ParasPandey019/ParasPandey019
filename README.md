@@ -7,7 +7,7 @@
 ✔I’m currently learning: ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react) 
 ![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-563D7C?style=for-the-badge&logo=redux)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+
 
 
 
